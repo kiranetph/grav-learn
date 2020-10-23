@@ -49,7 +49,7 @@ The object represents a single entity. The object gives access to its properties
 
 #### Flex Index
 
-**Flkex Index** is used to make fast queries to **Flex Directory**.
+**Flex Index** is used to make fast queries to **Flex Directory**.
 
 It contains meta-data for the **Flex Objects**, but not the objects themselves.
 
